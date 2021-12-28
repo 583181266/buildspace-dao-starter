@@ -4,8 +4,9 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
-  color: #fff;
+  background-image: url("/Users/huangbentai/Documents/GitHub/buildspace-dao-starter/src/background.jpeg");
+  background-size: cover;
+  color: rgb(238, 13, 13);
   overflow-x: hidden;
 }
 #root {
